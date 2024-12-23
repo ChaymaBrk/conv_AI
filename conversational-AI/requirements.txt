@@ -1,0 +1,12 @@
+openai
+SQLAlchemy
+PyPDF2
+chromadb
+langchain
+python-dotenv
+groq
+shutilwhich
+requests
+fastapi
+python-multipart
+psutil
